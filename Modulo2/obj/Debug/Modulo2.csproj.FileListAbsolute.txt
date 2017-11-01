@@ -1,0 +1,7 @@
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo2\bin\Debug\Modulo2.exe.config
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo2\bin\Debug\Modulo2.exe
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo2\bin\Debug\Modulo2.pdb
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo2\obj\Debug\Modulo2.csprojResolveAssemblyReference.cache
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo2\obj\Debug\Modulo2.csproj.CoreCompileInputs.cache
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo2\obj\Debug\Modulo2.exe
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo2\obj\Debug\Modulo2.pdb

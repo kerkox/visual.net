@@ -1,0 +1,7 @@
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo2TracingLogging\bin\Release\Modulo2TracingLogging.exe.config
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo2TracingLogging\bin\Release\Modulo2TracingLogging.exe
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo2TracingLogging\bin\Release\Modulo2TracingLogging.pdb
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo2TracingLogging\obj\Release\Modulo2TracingLogging.csproj.CoreCompileInputs.cache
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo2TracingLogging\obj\Release\Modulo2TracingLogging.exe
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo2TracingLogging\obj\Release\Modulo2TracingLogging.pdb
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo2TracingLogging\obj\Release\Modulo2TracingLogging.csprojResolveAssemblyReference.cache

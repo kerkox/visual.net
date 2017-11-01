@@ -1,0 +1,7 @@
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\SolucionExamenCursoNet\bin\Release\SolucionExamenCursoNet.exe.config
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\SolucionExamenCursoNet\bin\Release\SolucionExamenCursoNet.exe
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\SolucionExamenCursoNet\bin\Release\SolucionExamenCursoNet.pdb
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\SolucionExamenCursoNet\obj\Release\SolucionExamenCursoNet.csproj.CoreCompileInputs.cache
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\SolucionExamenCursoNet\obj\Release\SolucionExamenCursoNet.exe
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\SolucionExamenCursoNet\obj\Release\SolucionExamenCursoNet.pdb
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\SolucionExamenCursoNet\obj\Release\SolucionExamenCursoNet.csprojResolveAssemblyReference.cache
