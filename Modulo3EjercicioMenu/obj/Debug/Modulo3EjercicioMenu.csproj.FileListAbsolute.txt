@@ -1,0 +1,7 @@
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3EjercicioMenu\bin\Debug\Modulo3EjercicioMenu.exe.config
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3EjercicioMenu\bin\Debug\Modulo3EjercicioMenu.exe
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3EjercicioMenu\bin\Debug\Modulo3EjercicioMenu.pdb
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3EjercicioMenu\obj\Debug\Modulo3EjercicioMenu.csprojResolveAssemblyReference.cache
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3EjercicioMenu\obj\Debug\Modulo3EjercicioMenu.csproj.CoreCompileInputs.cache
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3EjercicioMenu\obj\Debug\Modulo3EjercicioMenu.exe
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3EjercicioMenu\obj\Debug\Modulo3EjercicioMenu.pdb

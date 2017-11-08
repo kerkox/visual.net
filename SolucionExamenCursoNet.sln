@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo2TracingLogging", "Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo3EjercicioMenu", "Modulo3EjercicioMenu\Modulo3EjercicioMenu.csproj", "{8732235D-7431-4FAE-BB85-19E2357B90D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo3WPF", "Modulo3WPF\Modulo3WPF.csproj", "{D4F1C72E-22AA-4A1A-8797-C8F363046B11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo5", "Modulo5\Modulo5.csproj", "{4653C24A-686A-4E42-B14A-88109821940A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,22 @@ Global
 		{8732235D-7431-4FAE-BB85-19E2357B90D0}.ModoReleaseX86|Any CPU.Build.0 = Release|Any CPU
 		{8732235D-7431-4FAE-BB85-19E2357B90D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8732235D-7431-4FAE-BB85-19E2357B90D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4F1C72E-22AA-4A1A-8797-C8F363046B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F1C72E-22AA-4A1A-8797-C8F363046B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F1C72E-22AA-4A1A-8797-C8F363046B11}.ModoReleaseX64|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F1C72E-22AA-4A1A-8797-C8F363046B11}.ModoReleaseX64|Any CPU.Build.0 = Release|Any CPU
+		{D4F1C72E-22AA-4A1A-8797-C8F363046B11}.ModoReleaseX86|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F1C72E-22AA-4A1A-8797-C8F363046B11}.ModoReleaseX86|Any CPU.Build.0 = Release|Any CPU
+		{D4F1C72E-22AA-4A1A-8797-C8F363046B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F1C72E-22AA-4A1A-8797-C8F363046B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4653C24A-686A-4E42-B14A-88109821940A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4653C24A-686A-4E42-B14A-88109821940A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4653C24A-686A-4E42-B14A-88109821940A}.ModoReleaseX64|Any CPU.ActiveCfg = Release|Any CPU
+		{4653C24A-686A-4E42-B14A-88109821940A}.ModoReleaseX64|Any CPU.Build.0 = Release|Any CPU
+		{4653C24A-686A-4E42-B14A-88109821940A}.ModoReleaseX86|Any CPU.ActiveCfg = Release|Any CPU
+		{4653C24A-686A-4E42-B14A-88109821940A}.ModoReleaseX86|Any CPU.Build.0 = Release|Any CPU
+		{4653C24A-686A-4E42-B14A-88109821940A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4653C24A-686A-4E42-B14A-88109821940A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

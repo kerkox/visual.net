@@ -26,6 +26,14 @@ namespace Modulo2TracingLogging
         }
     }
 
+    public class S1esa2TraceListener : IComparable
+    {
+        int IComparable.CompareTo(object obj)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
     class Program
     {
         static void Main(string[] args)

@@ -1,0 +1,15 @@
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3WPF\bin\Debug\Modulo3WPF.exe.config
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3WPF\bin\Debug\Modulo3WPF.exe
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3WPF\bin\Debug\Modulo3WPF.pdb
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3WPF\obj\Debug\Modulo3WPF.csprojResolveAssemblyReference.cache
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3WPF\obj\Debug\App.g.cs
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3WPF\obj\Debug\Modulo3WPF_MarkupCompile.cache
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3WPF\obj\Debug\Modulo3WPF_MarkupCompile.lref
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3WPF\obj\Debug\MainWindow.baml
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3WPF\obj\Debug\Modulo3WPF.g.resources
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3WPF\obj\Debug\Modulo3WPF.Properties.Resources.resources
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3WPF\obj\Debug\Modulo3WPF.csproj.GenerateResource.Cache
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3WPF\obj\Debug\Modulo3WPF.csproj.CoreCompileInputs.cache
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3WPF\obj\Debug\Modulo3WPF.exe
+C:\Users\Curso-VS\source\repos\SolucionExamenCursoNet\Modulo3WPF\obj\Debug\Modulo3WPF.pdb
